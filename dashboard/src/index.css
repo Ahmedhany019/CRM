@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+a.active li{
+    background-color: #27c2ff;
+}
